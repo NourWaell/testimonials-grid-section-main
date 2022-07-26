@@ -14,8 +14,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/testimonialsgridsectionmain-using-html-and-css-7l2OcQ62EE]
+- Live Site URL: [https://testimonials-grid-section-main-xi-seven.vercel.app/]
 
 ## My process
 
@@ -24,6 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- CSS Grid
 
 ## Author
 
